@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Find me at:
+## Contactame en:
 
-### Spanish
 [![Web](https://img.shields.io/badge/Mi_Portafolio-Abel_Acosta-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://abelacostaportafolio.js.org)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abel_Acosta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/abel-acosta-asaa)
